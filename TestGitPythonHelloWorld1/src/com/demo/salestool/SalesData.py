@@ -8,7 +8,7 @@ class SalesData(object):
     '''
     classdocs
     '''
-    _value1 = 100
+    _value1 = 110
 
     def __init__(self):
         '''
